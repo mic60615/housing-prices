@@ -1,7 +1,5 @@
-# my-project-name
-This is a machine learning project. Explore some ideas. Could be wild, could be simple. Sun Tzu once said:
->No shame in doing a housing price prediction project, for starters. Maybe do some feature engineering with it too
-
+# Housing-Prices
+Predict U.S. housing prices using a neural network.
 
 ## A second-level heading
 ### A third-level heading
